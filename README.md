@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Polymagia Minecraft Fabric Mod
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+A Minecraft mod focusing on improving the magical side of the game.
+
+## Usage
+
+You may use this mod in any modpack or streams/videos you like. The only legitimate copies of this mod are on this GitHub page and (soon) on Curseforge.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is licensed under the 
