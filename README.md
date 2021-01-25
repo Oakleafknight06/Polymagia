@@ -10,4 +10,4 @@ You may use this mod in any modpack or streams/videos you like. The only legitim
 
 ## License
 
-This mod is licensed under the 
+This mod is licensed under the GPLv3 license.
